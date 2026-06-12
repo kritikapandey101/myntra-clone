@@ -1,0 +1,1 @@
+A high-fidelity frontend clone of the popular fashion e-commerce platform, Myntra. This project replicates the core user interface, interactive navigation, and dynamic shopping flow of the original platform.
